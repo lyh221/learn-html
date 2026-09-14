@@ -1,0 +1,11 @@
+/* div {
+  background-color: aqua;
+  padding: 20px;
+} */
+
+/* ID선택자 */
+#text-block {
+  background-color: aqua;
+  padding: 20px;
+}  
+
